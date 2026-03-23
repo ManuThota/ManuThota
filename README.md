@@ -32,76 +32,45 @@ class ManikantaThota:
 
 ## 🚀 What I Do
 
-<table>
-<tr>
-<td width="50%">
+**Machine Learning & AI**
+> Building **RAG pipelines**, LLM-based systems, end-to-end **ML workflows** with MLflow, working with **PyTorch, TensorFlow, Keras, scikit-learn** and real-time inference architectures.
 
-### 🤖 Machine Learning & AI
-- Building **RAG pipelines** and LLM-based systems
-- Designing **end-to-end ML workflows** with MLflow
-- Working with **PyTorch, TensorFlow, Keras, scikit-learn**
-- Experimenting with **real-time inference** architectures
+**Data Science**
+> Exploratory **data analysis**, feature engineering, building **predictive models**, data visualization with **Matplotlib, Seaborn, Plotly** and deriving actionable insights from complex datasets.
 
-</td>
-<td width="50%">
+**Cloud & DevOps**
+> Deploying on **AWS & Google Cloud**, CI/CD automation with **GitHub Actions**, **MLOps** pipelines for model tracking & serving, and container orchestration with Docker.
 
-### 📊 Data Science
-- Exploratory **data analysis** and feature engineering
-- Building **predictive models** and statistical pipelines
-- Data visualization with **Matplotlib, Seaborn, Plotly**
-- Deriving **actionable insights** from complex datasets
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud & DevOps
-- Deploying on **AWS & Google Cloud**
-- CI/CD automation with **GitHub Actions**
-- **MLOps** pipelines for model tracking & serving
-- Container orchestration basics
-
-</td>
-<td width="50%">
-
-### 🔬 Currently Exploring
-- Advanced **MLOps** & model monitoring
-- **Real-time AI** architectures with streaming data
-- LLM fine-tuning & **agent frameworks**
-- Scalable system design for AI products
-
-</td>
-</tr>
-</table>
+**Currently Exploring**
+> Advanced **MLOps** & model monitoring, **real-time AI** architectures with streaming data, LLM fine-tuning, **agent frameworks** and scalable system design for AI products.
 
 ---
+
+## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 ML / AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ### 🌐 Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -113,8 +82,9 @@ class ManikantaThota:
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
