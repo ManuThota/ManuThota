@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=28&duration=4000&pause=1500&color=FF6600&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Perfectly+balanced%2C;as+all+things+should+be.)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manikanta%20Thota&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -45,8 +41,6 @@ class ManikantaThota:
 > Advanced **MLOps** & model monitoring, **real-time AI** architectures with streaming data, LLM fine-tuning, **agent frameworks** and scalable system design for AI products.
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -90,54 +84,45 @@ class ManikantaThota:
 
 ## 📌 Featured Projects
 
-> 🔧 *Here are some of the projects I've built or am currently working on:*
+> 🔧 *Here are some of the projects I've built & am currently working on:*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🧠 RAG-Powered Q&A System
-> Retrieval-Augmented Generation pipeline built with LLMs, vector embeddings, and FastAPI for intelligent document querying.
+###  RAG-Powered Q&A System
+![Status ](https://img.shields.io/badge/Status-Completed-00C853?style=flat-square) ![Type ](https://img.shields.io/badge/Type-AI%20%2F%20LLM-00D9FF?style=flat-square)
 
-**Stack:** `Python` `FastAPI` `Redis` `LangChain` `MongoDB`
+Retrieval-Augmented Generation pipeline built with LLMs, vector embeddings, and FastAPI for intelligent document querying.
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ManuThota)
+`Python` `FastAPI` `Redis` `LangChain` `MongoDB`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ⚡ Real-Time ML Inference API
-> High-performance ML serving API with async processing, Redis caching, and model versioning support.
+###  Real-Time ML Inference API
+![Status](https://img.shields.io/badge/Status-Completed-00C853?style=flat-square) ![Type](https://img.shields.io/badge/Type-Backend%20%2F%20ML-FF6B6B?style=flat-square)
 
-**Stack:** `FastAPI` `PyTorch` `Redis` `Docker` `AWS`
+High-performance ML serving API with async processing, Redis caching, and model versioning support.
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManuThota)
+`FastAPI` `PyTorch` `Redis` `Docker` `AWS`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📊 MLOps Pipeline
-> End-to-end ML pipeline with experiment tracking, model registry, automated retraining triggers, and deployment automation.
+###  MLOps Pipeline
+![Status](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Type](https://img.shields.io/badge/Type-MLOps-7CFC00?style=flat-square)
 
-**Stack:** `MLflow` `scikit-learn` `GitHub Actions` `Docker`
+End-to-end ML pipeline with experiment tracking, model registry, automated retraining triggers, and deployment automation.
 
-[![View Project](https://img.shields.io/badge/View%20Project-7CFC00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ManuThota)
+`MLflow` `scikit-learn` `GitHub Actions` `Docker`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🤖 AI-Driven Backend System
-> Scalable backend integrating LLM capabilities for automated workflows, smart caching, and real-time data processing.
+###  AI-Driven Backend System
+![Status](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Type](https://img.shields.io/badge/Type-AI%20%2F%20Backend-FFD700?style=flat-square)
 
-**Stack:** `Python` `Django` `MongoDB` `Redis` `GCP`
+Scalable backend integrating LLM capabilities for automated workflows, smart caching, and real-time data processing.
 
-[![View Project](https://img.shields.io/badge/View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ManuThota)
+`Python` `Django` `MongoDB` `Redis` `GCP`
 
-</td>
-</tr>
-</table>
+---
 
 > 📂 *Explore all my repositories:* **[github.com/ManuThota](https://github.com/ManuThota)**
 
@@ -145,14 +130,14 @@ class ManikantaThota:
 
 ## 💼 Skills Snapshot
 
-| Domain | Proficiency | Key Tools |
-|---|---|---|
-| 🤖 Machine Learning | ████████░░ Advanced | PyTorch, TensorFlow, scikit-learn |
-| 🔗 LLM / RAG Systems | ███████░░░ Intermediate+ | LangChain, Vector DBs, FastAPI |
-| ⚙️ Backend Development | ████████░░ Advanced | FastAPI, Django, Flask, Spring |
-| ☁️ Cloud Platforms | ██████░░░░ Intermediate | AWS, GCP, Docker |
-| 🗄️ Databases | ███████░░░ Intermediate+ | MongoDB, MySQL, Redis |
-| 🔄 MLOps / DevOps | ██████░░░░ Intermediate | MLflow, GitHub Actions, Docker |
+| Skill | Progress |
+|-------|----------|
+|  Machine Learning | ![90%](https://geps.dev/progress/90) |
+|  LLM / RAG Systems | ![80%](https://geps.dev/progress/80) |
+|  Data Science | ![80%](https://geps.dev/progress/80) |
+|  Cloud Platforms | ![70%](https://geps.dev/progress/70) |
+|  Databases & Caching | ![75%](https://geps.dev/progress/75) |
+|  MLOps / DevOps | ![80%](https://geps.dev/progress/80) |
 
 ---
 
@@ -160,21 +145,14 @@ class ManikantaThota:
 
 <div align="center">
 
-![Manikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuThota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<a href="https://github.com/ManuThota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuThota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=ManuThota&theme=tokyonight&hide_border=true"/>
+</a>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ManuThota&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuThota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ManuThota&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+<a href="https://github.com/ManuThota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuThota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
 
 </div>
 
@@ -202,17 +180,12 @@ class ManikantaThota:
 </div>
 
 ---
-
 <div align="center">
+    
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=28&duration=4000&pause=1500&color=FF6600&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Perfectly+balanced%2C;as+all+things+should+be.)](https://git.io/typing-svg)
 
-### 💬 Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-*"The best way to predict the future is to build it."*
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ManuThota&icon=5&color=6)
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
