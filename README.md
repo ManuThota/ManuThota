@@ -5,7 +5,7 @@
 </div>
 
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```python
 class ManikantaThota:
@@ -79,52 +79,6 @@ class ManikantaThota:
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-> 🔧 *Here are some of the projects I've built & am currently working on:*
-
----
-
-###  RAG-Powered Q&A System
-![Status ](https://img.shields.io/badge/Status-Completed-00C853?style=flat-square) ![Type ](https://img.shields.io/badge/Type-AI%20%2F%20LLM-00D9FF?style=flat-square)
-
-Retrieval-Augmented Generation pipeline built with LLMs, vector embeddings, and FastAPI for intelligent document querying.
-
-`Python` `FastAPI` `Redis` `LangChain` `MongoDB`
-
----
-
-###  Real-Time ML Inference API
-![Status](https://img.shields.io/badge/Status-Completed-00C853?style=flat-square) ![Type](https://img.shields.io/badge/Type-Backend%20%2F%20ML-FF6B6B?style=flat-square)
-
-High-performance ML serving API with async processing, Redis caching, and model versioning support.
-
-`FastAPI` `PyTorch` `Redis` `Docker` `AWS`
-
----
-
-###  MLOps Pipeline
-![Status](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Type](https://img.shields.io/badge/Type-MLOps-7CFC00?style=flat-square)
-
-End-to-end ML pipeline with experiment tracking, model registry, automated retraining triggers, and deployment automation.
-
-`MLflow` `scikit-learn` `GitHub Actions` `Docker`
-
----
-
-###  AI-Driven Backend System
-![Status](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Type](https://img.shields.io/badge/Type-AI%20%2F%20Backend-FFD700?style=flat-square)
-
-Scalable backend integrating LLM capabilities for automated workflows, smart caching, and real-time data processing.
-
-`Python` `Django` `MongoDB` `Redis` `GCP`
-
----
-
-> 📂 *Explore all my repositories:* **[github.com/ManuThota](https://github.com/ManuThota)**
 
 ---
 
