@@ -40,6 +40,7 @@ class ManikantaThota:
 **Currently Exploring**
 > Advanced **MLOps** & model monitoring, **real-time AI** architectures with streaming data, LLM fine-tuning, **agent frameworks** and scalable system design for AI products.
 
+
 ---
 
 ## 🛠️ Tech Stack
