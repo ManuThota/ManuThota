@@ -5,27 +5,6 @@
 </div>
 
 
-##  About Me
-
-```python
-class ManikantaThota:
-    def __init__(self):
-        self.name        = "Manikanta Thota"
-        self.role        = "ML Engineer | Data Scientist"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["Machine Learning", "LLM Systems", "Scalable Backend APIs"]
-        self.currently   = "Exploring MLOps, Real-time AI Architectures & Advanced ML Systems"
-        self.languages   = ["Python", "Java", "JavaScript", "C"]
-        self.contact     = "manikantathota2003@gmail.com"
-
-    def passion(self):
-        return "Turning data + algorithms into impactful, production-ready AI products 🚀"
-```
-
-> 💡 *Passionate about building intelligent systems that solve real-world problems — from raw idea to deployed solution.*
-
----
-
 ## 🚀 What I Do
 
 **Machine Learning & AI**
@@ -80,19 +59,6 @@ class ManikantaThota:
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## 💼 Skills Snapshot
-
-| Skill | Progress |
-|-------|----------|
-|  Machine Learning | ![90%](https://geps.dev/progress/90) |
-|  LLM / RAG Systems | ![80%](https://geps.dev/progress/80) |
-|  Data Science | ![80%](https://geps.dev/progress/80) |
-|  Cloud Platforms | ![70%](https://geps.dev/progress/70) |
-|  Databases & Caching | ![75%](https://geps.dev/progress/75) |
-|  MLOps / DevOps | ![80%](https://geps.dev/progress/80) |
 
 ---
 
